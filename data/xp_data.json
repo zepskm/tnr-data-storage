@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-01T20:11:02.616611",
+    "last_updated": "2025-05-01T20:14:38.700387",
     "data": {
         "9811957": {
             "user_id": "9811957",
@@ -314,6 +314,13 @@
             "username": "Beatz",
             "xp": 44,
             "current_rank": 290078289,
+            "discord_id": null
+        },
+        "4334533055": {
+            "user_id": "4334533055",
+            "username": "zepwc1",
+            "xp": 1,
+            "current_rank": null,
             "discord_id": null
         },
         "469668690": {
