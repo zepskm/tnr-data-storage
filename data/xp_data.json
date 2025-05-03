@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-03T00:12:52.387359",
+    "last_updated": "2025-05-03T19:47:51.562583",
     "data": {
         "9811957": {
             "user_id": "9811957",
@@ -120,13 +120,6 @@
             "current_rank": null,
             "discord_id": null
         },
-        "274896155": {
-            "user_id": "274896155",
-            "username": "Avoirre",
-            "xp": 72,
-            "current_rank": 290342249,
-            "discord_id": "258280135239794688"
-        },
         "2239494628": {
             "user_id": "2239494628",
             "username": "D_zZ0",
@@ -189,13 +182,6 @@
             "xp": 52,
             "current_rank": 290342249,
             "discord_id": "1217393482717724716"
-        },
-        "338543088": {
-            "user_id": "338543088",
-            "username": "Odtillion",
-            "xp": 115,
-            "current_rank": 290096241,
-            "discord_id": "595590667963596800"
         },
         "24743": {
             "user_id": "24743",
@@ -281,26 +267,12 @@
             "current_rank": 290342249,
             "discord_id": null
         },
-        "29590199": {
-            "user_id": "29590199",
-            "username": "deadpansyn",
-            "xp": 206,
-            "current_rank": null,
-            "discord_id": "243496200630697985"
-        },
         "522862405": {
             "user_id": "522862405",
             "username": "zusori",
             "xp": 303,
             "current_rank": 302736036,
             "discord_id": "255820341195177985"
-        },
-        "75837034": {
-            "user_id": "75837034",
-            "username": "bustymanning",
-            "xp": 170,
-            "current_rank": 294470018,
-            "discord_id": null
         },
         "73291825": {
             "user_id": "73291825",
@@ -323,10 +295,38 @@
             "current_rank": 348352058,
             "discord_id": "660527036393324545"
         },
+        "338543088": {
+            "user_id": "338543088",
+            "username": "Odtillion",
+            "xp": 122,
+            "current_rank": 290096241,
+            "discord_id": "595590667963596800"
+        },
+        "29590199": {
+            "user_id": "29590199",
+            "username": "deadpansyn",
+            "xp": 213,
+            "current_rank": null,
+            "discord_id": "243496200630697985"
+        },
+        "75837034": {
+            "user_id": "75837034",
+            "username": "bustymanning",
+            "xp": 177,
+            "current_rank": 294470018,
+            "discord_id": null
+        },
+        "274896155": {
+            "user_id": "274896155",
+            "username": "Avoirre",
+            "xp": 79,
+            "current_rank": 290342249,
+            "discord_id": "258280135239794688"
+        },
         "469668690": {
             "user_id": "469668690",
             "username": "zepskiee",
-            "xp": 372,
+            "xp": 379,
             "current_rank": 305958006,
             "discord_id": "528701615922741248"
         }
