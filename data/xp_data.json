@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-05T00:30:25.919544",
+    "last_updated": "2025-05-05T00:31:53.213283",
     "data": {
         "9811957": {
             "user_id": "9811957",
@@ -161,13 +161,6 @@
             "xp": 81,
             "current_rank": 290342249,
             "discord_id": "1322386568593281161"
-        },
-        "4334533055": {
-            "user_id": "4334533055",
-            "username": "zepwc1",
-            "xp": 0,
-            "current_rank": null,
-            "discord_id": null
         },
         "42532074": {
             "user_id": "42532074",
@@ -344,19 +337,26 @@
             "current_rank": 290096241,
             "discord_id": "852659206301548554"
         },
-        "469668690": {
-            "user_id": "469668690",
-            "username": "zepskiee",
-            "xp": 403,
-            "current_rank": 305958006,
-            "discord_id": "528701615922741248"
-        },
         "75837034": {
             "user_id": "75837034",
             "username": "bustymanning",
             "xp": 201,
             "current_rank": 303244032,
             "discord_id": null
+        },
+        "4334533055": {
+            "user_id": "4334533055",
+            "username": "zepwc1",
+            "xp": 1,
+            "current_rank": null,
+            "discord_id": null
+        },
+        "469668690": {
+            "user_id": "469668690",
+            "username": "zepskiee",
+            "xp": 403,
+            "current_rank": 305958006,
+            "discord_id": "528701615922741248"
         }
     }
 }
