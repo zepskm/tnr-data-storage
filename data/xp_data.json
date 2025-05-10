@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-05-10T17:57:08.625028",
+    "last_updated": "2025-05-10T18:06:22.091718",
     "data": {
         "9811957": {
             "user_id": "9811957",
@@ -365,13 +365,6 @@
             "current_rank": null,
             "discord_id": null
         },
-        "469668690": {
-            "user_id": "469668690",
-            "username": "zepskiee",
-            "xp": 531,
-            "current_rank": 305958006,
-            "discord_id": "528701615922741248"
-        },
         "16896065": {
             "user_id": "16896065",
             "username": "ceejaysIide",
@@ -392,6 +385,13 @@
             "xp": 1,
             "current_rank": null,
             "discord_id": null
+        },
+        "469668690": {
+            "user_id": "469668690",
+            "username": "zepskiee",
+            "xp": 531,
+            "current_rank": 305958006,
+            "discord_id": "528701615922741248"
         }
     }
 }
